@@ -14,8 +14,6 @@ A powerful and interactive CLI tool to analyze IP addresses or website URLs and 
 
 - Interactive terminal interface with clear and colorful output.
 
-- Supports continuous queries without restarting the tool.
-
 
 ## Installation
 
